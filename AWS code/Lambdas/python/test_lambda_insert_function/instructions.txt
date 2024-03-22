@@ -1,0 +1,2 @@
+pip install  mysql-connector-python -t .
+zip python file with lambda code along with mysql package directories
